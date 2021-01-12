@@ -1,2 +1,2 @@
-# pwa_public
-Assets Public untuk PWA dengan React JS
+# Progressive Web Apps 
+Public Assets for PWAs with React JS
